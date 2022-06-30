@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 ### Hello World 👋
 I am a fullstack web developer from France.
 
-- 🔭 Working at Yakaygo on frontend and backend project using PHP/WordPress & PureJS
-- 🌱 Learning NodeJS, React, React Native, Typescript, GraphQL, Docker at Wild Code School
+- 🔭 Working at Atos France on frontend and backend project using Java/Spring, Angular & VueJS
 
 ## Contact Me
 
